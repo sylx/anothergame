@@ -1,0 +1,9 @@
+{
+    "python.testing.pytestArgs": [
+        "-c",
+        "pytest.ini"
+    ],
+    "python.testing.cwd": "${workspaceFolder}/ai-service",
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}

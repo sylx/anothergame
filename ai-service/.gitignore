@@ -1,0 +1,9 @@
+# for python
+*.pyc
+.pytest_cache
+__pycache__
+
+*.wav
+*.ogg
+cache
+models
